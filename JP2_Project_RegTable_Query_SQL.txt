@@ -1,0 +1,16 @@
+Create table Login
+(
+   fullName varchar2(20),
+   password varchar2(20)
+);
+
+
+Create table Registration
+( 
+  fullName varchar(10),
+  password varchar(6),
+  email1 varchar2(15),
+   height1 varchar2(5),
+  weight1 varchar2(5),
+  address varchar2(15)
+);
